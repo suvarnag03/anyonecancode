@@ -6,8 +6,8 @@
         <div id="right"></div>
         <div id="top"></div>
         <div id="bottom"></div>
-        <b-navbar-item id="fontnavbar" class="title is-2" style="color: green">
-          Sophiagram
+        <b-navbar-item id="fontnavbar" class="title is-2" style="color: rgba(0, 128, 122, 0.527)">
+          vgram
         </b-navbar-item>
       </template>
     </b-navbar>
